@@ -1,3 +1,3 @@
-### AQUI SE ENCONTRARÁ INFORMACIÓN IMPORTANTE A DETALLAR DEL TRABAJO PRÁCTICO
+### AQUI SE ENCONTRARÁ INFORMACIÓN IMPORTANTE A DETALLAR DEL TRABAJO PRÁCTICO N1 Teórico y de Laboratorio 
 
-El TPN1 de Laboratorio se puede leer sin necesidad de bajar el repositorio
+##El archivo pdf se puede abrir si se descarga el repositorio, por el navegador web del repositorio no permite ver el PDF.
