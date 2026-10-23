@@ -7,3 +7,5 @@
 ## Link Teórico: https://docs.google.com/document/d/1XsztE3F1XIy164zjw7miH4lePqla2Bb2yB9pNPnUmaI/edit?usp=sharing
 
 ## Link Laboratorio: https://docs.google.com/document/d/1fcQNBxX7Fr_uZWj6ti98qtBAMCjTsSr3JMozT6Uy6qk/edit?usp=sharing
+
+Link Teórico rehecho: https://docs.google.com/document/d/1_7y_D1_K09t-ssroNRL0_0Ql_hQs7Ji9eNjjQw2BppI/edit?tab=t.0
